@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR6q0567/j/v1/juan/0
 seq: 0
-front:
+body:
   text: 元潔瑩禪師語録目録卷第一住洪都寧州古洞山阿耨禪寺語録住楚蒲圻玉崖山上方禪寺語録卷第二住浙江湖州辨山龍華禪寺語録住江南廣陵平山棲靈禪寺語録卷第三住洪都寧州雲巖無住禪寺語録卷第四住澧州藥山慈雲禪寺語録復住寧州雲巖無住禪寺語録卷第五住越州雲門顯聖禪寺語録住台州天台護國禪寺語録卷第六示衆小參卷第七普説垂語代語機緣卷第八拈古頌古卷第九代古法語示語佛事卷第十像贊行狀塔銘元潔瑩禪師語録目録終
   hash: sha256:c0ddb9c7ab1a9385840f2ee03add93fc8ab0938015701078675a730e492ef8ce
   markers:
   - {type: 其他, offset: 0, content: 目錄, id: KR6q0567_J_000-mulu-1, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 元潔瑩禪師語錄
   edition:
@@ -16,4 +13,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/J/J39/J39nB453.xml
     old_id: J39nB453
-hash: sha256:ecc5bcfe1430b4880074ecbff0493021038972215c29ba9a5d117c2a8d26ccf7
+hash: sha256:a676efd8d47f599b9cceb8e88642ae47283501413a6486bb10ae66e4a380171b
